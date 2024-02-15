@@ -16,9 +16,24 @@ namespace Demidov4333_ISRPO
     /// </summary>
     public partial class MainWindow : Window
     {
+        public bool a = false;
         public MainWindow()
         {
             InitializeComponent();
+        }
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            if (a == true)
+            {
+                choko1.Background = Brushes.Blue;
+                a = false;
+            }
+            else
+            {
+                choko1.Background = Brushes.Purple;
+                a = true;
+            }
+
         }
     }
 }
