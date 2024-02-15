@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Demidov4333_ISRPO")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e976a0a5e0e562ff2b869e58f6fa613a04de64b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Demidov4333_ISRPO")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Demidov4333_ISRPO")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
